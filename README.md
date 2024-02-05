@@ -29,10 +29,10 @@
   <img align='center' alt='mysql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
   <img align='center' alt='sqlite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
   <h3>my social network:</h3>
-  <a alt='profile_instagram' href='https://www.instagram.com/igorf.ernando/'>
+  <a alt='profile_instagram' href='https://www.instagram.com/igorf.ernando/' target='_blank'>
     <img align='center' alt='instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
   </a>
-  <a alt='profile_linkedin' href='https://www.linkedin.com/in/igor-fernando-silva-loiola-60932a255/'>
+  <a alt='profile_linkedin' href='https://www.linkedin.com/in/igor-fernando-silva-loiola-60932a255/' target='_blank'>
     <img align='center' alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
 </div>
