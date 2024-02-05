@@ -35,6 +35,10 @@
   <a alt='profile_linkedin' href='https://www.linkedin.com/in/igor-fernando-silva-loiola-60932a255/' target='_blank'>
     <img align='center' alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'/>
   </a>
+  <a alt='server_discord' href='https://discord.gg/3BqWcmnwh3' target='_blank'>
+    <img align='center' alt='discord' src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/>
+  </a>  
+  <img align='center' alt='gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><p>contato.igorloiola@gmail.com</p>
 </div>
 
 <!--
